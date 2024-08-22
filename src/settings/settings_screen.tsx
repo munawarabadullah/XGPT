@@ -71,7 +71,7 @@ export const SettingsScreen = () => {
         <Body>
             <Logo src={logoPath} />
             <Container>
-                <H1>TweetGPT Settings</H1>
+                <H1>xGPT Settings</H1>
                 <SettingsBlock>
                     <H2>OpenAI API Token {warning}</H2>
                     <Space height={3} />
